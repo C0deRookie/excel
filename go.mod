@@ -1,6 +1,6 @@
 module github.com/cuishu/excel
 
-go 1.17
+go 1.13
 
 require (
 	github.com/gabriel-vasile/mimetype v1.4.0
